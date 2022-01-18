@@ -1,0 +1,16 @@
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.exe
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.deps.json
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.json
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.dev.json
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.dll
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\bin\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.pdb
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.dll
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\obj\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.pdb
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\Cursos\Projetos\.NET\C#\Construtores\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.genruntimeconfig.cache
