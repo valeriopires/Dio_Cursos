@@ -1,0 +1,16 @@
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.exe
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.deps.json
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.runtimeconfig.json
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.runtimeconfig.dev.json
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.dll
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\bin\Debug\net5.0\ref\FilaAtendimento.dll
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\bin\Debug\net5.0\FilaAtendimento.pdb
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.csproj.AssemblyReference.cache
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.AssemblyInfoInputs.cache
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.AssemblyInfo.cs
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.dll
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\obj\Debug\net5.0\ref\FilaAtendimento.dll
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.pdb
+C:\Users\Valério\Desktop\Developer\GITHUB\valeriopires\DIO\Cursos\Projetos\.NET\C#\Estruturas de Dados\Fila\FilaAtendimento\obj\Debug\net5.0\FilaAtendimento.genruntimeconfig.cache
